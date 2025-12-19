@@ -2,6 +2,6 @@
 <img
   src="https://render.gitanimals.org/farms/rivxrhxx"
   width="600"
-  height="300"
+  height="120"
 />
 </a>
